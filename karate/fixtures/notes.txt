@@ -1,0 +1,1 @@
+This is a fixture to test unsupported file uploads, not a video.
